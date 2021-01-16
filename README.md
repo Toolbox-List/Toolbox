@@ -20,8 +20,6 @@ Filling out later
 
 # ➤ Movies and TV
 
-# ➤ Downloading Movies and TV
-
 # ➤ Sports
 
 ## Basketball
@@ -38,8 +36,6 @@ Filling out later
 
 # ➤ Anime
 
-# ➤ Downloading 
-
 # ➤ Documentary
 
 [DocumentaryMania](https://www.documentarymania.com/home.php)
@@ -54,5 +50,3 @@ Filling out later
 
 
 # ➤ Bollywood / Hindi
-
-# ➤ Downloading Bollywood / Hindi
