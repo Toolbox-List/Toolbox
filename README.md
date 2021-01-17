@@ -46,6 +46,8 @@ Filling out later
 
 **[Best Series - _TV Shows / Anime_](https://best-series.me/)**
 
+**[HiMovies](https://www3.himovies.to)**
+
 # ➤ Downloading Movies / TV
 
 # ➤ Anime Only Sites
