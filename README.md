@@ -6,7 +6,7 @@
 
 Pro Tip: Use [uBlock Origin](https://github.com/gorhill/uBlock#installation) on these sites or you are going to have a terrible time.
 
-Pro Tip: Use `CTRL + F` to search for what you want. Example: "anime"
+Pro Tip: Use `CTRL + F` to search for what you want. Example: "anime" or the sport you are looking for.
 
 `CMD + F` on mac.
 
@@ -53,21 +53,14 @@ Filling out later
 
 **[/r/animepiracy index - _Massive Anime Piracy Index_](https://piracy.moe)**
 
+**[9Anime](https://9anime.zone)**
+
+**[KissAnime](https://kissanime.nz/)**
+
+
 # ➤ Anime Downloading
 
 # ➤ Sports
-
-## ➪ Basketball
-
-## ➪ Football / NFL
-
-## ➪ Soccer
-
-## ➪ Hockey
-
-## ➪ Boxing / MMA / UFC / WWE
-
-## ➪ Formula 1 / Racing
 
 # ➤ Documentary
 
