@@ -62,6 +62,8 @@ Filling out later
 
 # ➤ Sports
 
+**[Live-Streams - _21 Different Sports_](https://live-nfl.stream/partners)**
+
 # ➤ Documentary
 
 **[DocumentaryMania](https://www.documentarymania.com/home.php)**
