@@ -1,4 +1,4 @@
-# ![](https://i.imgur.com/qf89AKU.png)
+# ![](https://i.imgur.com/JmWbilh.png)
 
 > _hear me out. imagine pirating a movie, about pirates_
 
