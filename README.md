@@ -28,11 +28,15 @@ Filling out later
 
 # ➤ Search Engine
 
-# ➤ Movies / TV / Anime
+# ➤ Movies / TV
+
+**[Noxx - TV Shows](https://noxx.is)**
+
+**[Soap2Day](https://soapgate.org)**
+
+**[OnionPlay](https://onionplay.is)**
 
 **[Watch-Series - _TV Shows_](https://www1.watch-series.la/)**
-
-**[Noxx - _TV Shows_](https://noxx.is/)**
 
 **[WatchEpisodes - _TV Shows / Anime_](https://www.watchepisodes4.com/)**
 
@@ -44,7 +48,13 @@ Filling out later
 
 **[/r/animepiracy index - _Massive Anime Piracy Index_](https://piracy.moe)
 
-# ➤ Downloading Movies / TV / Anime
+# ➤ Downloading Movies / TV
+
+# ➤ Anime Only Sites
+- Some anime sites may be in the lists above.
+
+
+# ➤ Anime Downloading
 
 # ➤ Sports
 
