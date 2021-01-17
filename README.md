@@ -4,6 +4,10 @@
 
 # Streaming and Downloading Sites
 
+Pro Tip: Use [uBlock Origin](https://github.com/gorhill/uBlock#installation) on these sites or you are going to have a terrible time.
+
+Pro Tip: Use `CTRL + F` to search for what you want. Example: "anime"
+`CMD + F` on mac.
 
 # Contents
 
@@ -36,6 +40,8 @@ Filling out later
 **[SouthPark](https://southpark.cc.com/)**
 
 **[Best Series - _TV Shows / Anime_](https://best-series.me/)**
+
+**[/r/animepiracy index - _Massive Anime Piracy Index_](https://piracy.moe)
 
 # ➤ Sports
 
