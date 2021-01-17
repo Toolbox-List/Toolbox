@@ -7,6 +7,7 @@
 Pro Tip: Use [uBlock Origin](https://github.com/gorhill/uBlock#installation) on these sites or you are going to have a terrible time.
 
 Pro Tip: Use `CTRL + F` to search for what you want. Example: "anime"
+
 `CMD + F` on mac.
 
 # Contents
