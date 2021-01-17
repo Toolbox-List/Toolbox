@@ -19,7 +19,7 @@ Filling out later
 
 # ➤ Search Engine
 
-# ➤ Movies and TV
+# ➤ Movies / TV / Anime
 
 # ➤ Sports
 
@@ -35,8 +35,6 @@ Filling out later
 
 ## Formula 1 / Racing
 
-# ➤ Anime
-
 # ➤ Documentary
 
 [DocumentaryMania](https://www.documentarymania.com/home.php)
@@ -51,3 +49,35 @@ Filling out later
 
 
 # ➤ Bollywood / Hindi
+
+# ➤ Subtitles
+
+[OpenSubtitles](https://www.opensubtitles.org/)
+
+[Subtitle Cat](https://www.subtitlecat.com/)
+
+[Subtitles Web](https://subtitlesweb.com/)
+
+[SubDL](https://subdl.com/)
+
+[Addic7ed](https://www.addic7ed.com/)
+
+[Subtitles](https://www.subtitles.hr/)
+
+[Podnapisi](https://www.podnapisi.net/)
+
+[SubsPlease](https://subsplease.org/)
+
+[Subtitlist](https://subtitlist.com/)
+
+[SubtitlesHub](https://subtitleshub.net/)
+
+[TVSubtitles](http://www.tvsubtitles.net/)
+
+[kitsunekko - Anime subtitles](https://kitsunekko.net/)
+
+[Downsubs - Downloads subtitles from YouTube](https://downsub.com/)
+
+[SubtitleEdit - Edit subtitles](https://github.com/SubtitleEdit/subtitleedit)
+
+# ➤ Subtitle CSE
