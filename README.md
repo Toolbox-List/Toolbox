@@ -46,13 +46,12 @@ Filling out later
 
 **[Best Series - _TV Shows / Anime_](https://best-series.me/)**
 
-**[/r/animepiracy index - _Massive Anime Piracy Index_](https://piracy.moe)
-
 # ➤ Downloading Movies / TV
 
 # ➤ Anime Only Sites
 - Some anime sites may be in the lists above.
 
+**[/r/animepiracy index - _Massive Anime Piracy Index_](https://piracy.moe)**
 
 # ➤ Anime Downloading
 
