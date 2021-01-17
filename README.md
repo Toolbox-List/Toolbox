@@ -25,7 +25,7 @@ Filling out later
 
 # ➤ Movies / TV / Anime
 
-**[Watch-Series - _TV Shows_](https://www1.watch-series.la/)**
+[Watch-Series - _TV Shows_](https://www1.watch-series.la/)
 
 [Noxx - _TV Shows_](https://noxx.is/)
 
