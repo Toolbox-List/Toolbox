@@ -25,6 +25,18 @@ Filling out later
 
 # ➤ Movies / TV / Anime
 
+[Watch-Series - _TV Shows_](https://www1.watch-series.la/)
+
+[Noxx - _TV Shows_](https://noxx.is/)
+
+[WatchEpisodes - _TV Shows / Anime_](https://www.watchepisodes4.com/)
+
+[MyWatchSeries - _TV Shows / Anime_](https://www5.mywatchseries.stream/)
+
+[SouthPark](https://southpark.cc.com/)
+
+[Best Series - _TV Shows / Anime_](https://best-series.me/)
+
 # ➤ Sports
 
 ## Basketball
