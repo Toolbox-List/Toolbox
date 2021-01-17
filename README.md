@@ -57,8 +57,6 @@ Filling out later
 
 **[9Anime](https://9anime.zone)**
 
-**[KissAnime](https://kissanime.nz/)**
-
 
 # ➤ Anime Downloading
 
