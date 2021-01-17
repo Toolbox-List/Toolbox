@@ -66,6 +66,8 @@ Filling out later
 
 # ➤ Bollywood / Hindi
 
+# ➤ Legal Sites
+
 # ➤ Subtitles
 
 **[OpenSubtitles](https://www.opensubtitles.org/)**
