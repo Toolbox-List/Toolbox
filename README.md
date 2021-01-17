@@ -78,6 +78,10 @@ Filling out later
 
 **[DocumentaryHeaven](https://documentaryheaven.com)**
 
+# ➤ Cartoons
+
+[KimCartoon](https://kimcartoon.to/)
+
 
 # ➤ Bollywood / Hindi
 
