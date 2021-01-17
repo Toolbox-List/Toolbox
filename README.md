@@ -17,6 +17,10 @@ Filling out later
 
 [OnionPlay](https://onionplay.is)
 
+[OpenSubtitles](https://www.opensubtitles.org/)
+
+[SubtitlesHub](https://subtitleshub.net/)
+
 # ➤ Search Engine
 
 # ➤ Movies / TV / Anime
