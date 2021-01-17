@@ -11,31 +11,31 @@ Filling out later
 
 # ☠ My Favourites ☠
 
-[Noxx - TV Shows](https://noxx.is)
+**[Noxx - TV Shows](https://noxx.is)**
 
-[Soap2Day](https://soapgate.org)
+**[Soap2Day](https://soapgate.org)**
 
-[OnionPlay](https://onionplay.is)
+**[OnionPlay](https://onionplay.is)**
 
-[OpenSubtitles](https://www.opensubtitles.org/)
+**[OpenSubtitles](https://www.opensubtitles.org/)**
 
-[SubtitlesHub](https://subtitleshub.net/)
+**[SubtitlesHub](https://subtitleshub.net/)**
 
 # ➤ Search Engine
 
 # ➤ Movies / TV / Anime
 
-[Watch-Series - _TV Shows_](https://www1.watch-series.la/)
+**[Watch-Series - _TV Shows_](https://www1.watch-series.la/)**
 
-[Noxx - _TV Shows_](https://noxx.is/)
+**[Noxx - _TV Shows_](https://noxx.is/)**
 
-[WatchEpisodes - _TV Shows / Anime_](https://www.watchepisodes4.com/)
+**[WatchEpisodes - _TV Shows / Anime_](https://www.watchepisodes4.com/)**
 
-[MyWatchSeries - _TV Shows / Anime_](https://www5.mywatchseries.stream/)
+**[MyWatchSeries - _TV Shows / Anime_](https://www5.mywatchseries.stream/)**
 
-[SouthPark](https://southpark.cc.com/)
+**[SouthPark](https://southpark.cc.com/)**
 
-[Best Series - _TV Shows / Anime_](https://best-series.me/)
+**[Best Series - _TV Shows / Anime_](https://best-series.me/)**
 
 # ➤ Sports
 
@@ -53,47 +53,47 @@ Filling out later
 
 # ➤ Documentary
 
-[DocumentaryMania](https://www.documentarymania.com/home.php)
+**[DocumentaryMania](https://www.documentarymania.com/home.php)**
 
-[IHaveNoTV](https://ihavenotv.com)
+**[IHaveNoTV](https://ihavenotv.com)**
 
-[FilmsForAction](https://www.filmsforaction.org/)
+**[FilmsForAction](https://www.filmsforaction.org/)**
 
-[TopDocumentaryFilms](https://topdocumentaryfilms.com/all/)
+**[TopDocumentaryFilms](https://topdocumentaryfilms.com/all/)**
 
-[DocumentaryHeaven](https://documentaryheaven.com)
+**[DocumentaryHeaven](https://documentaryheaven.com)**
 
 
 # ➤ Bollywood / Hindi
 
 # ➤ Subtitles
 
-[OpenSubtitles](https://www.opensubtitles.org/)
+**[OpenSubtitles](https://www.opensubtitles.org/)**
 
-[Subtitle Cat](https://www.subtitlecat.com/)
+**[Subtitle Cat](https://www.subtitlecat.com/)**
 
-[Subtitles Web](https://subtitlesweb.com/)
+**[Subtitles Web](https://subtitlesweb.com/)**
 
-[SubDL](https://subdl.com/)
+**[SubDL](https://subdl.com/)**
 
-[Addic7ed](https://www.addic7ed.com/)
+**[Addic7ed](https://www.addic7ed.com/)**
 
-[Subtitles](https://www.subtitles.hr/)
+**[Subtitles](https://www.subtitles.hr/)**
 
-[Podnapisi](https://www.podnapisi.net/)
+**[Podnapisi](https://www.podnapisi.net/)**
 
-[SubsPlease](https://subsplease.org/)
+**[SubsPlease](https://subsplease.org/)**
 
-[Subtitlist](https://subtitlist.com/)
+**[Subtitlist](https://subtitlist.com/)**
 
-[SubtitlesHub](https://subtitleshub.net/)
+**[SubtitlesHub](https://subtitleshub.net/)**
 
-[TVSubtitles](http://www.tvsubtitles.net/)
+**[TVSubtitles](http://www.tvsubtitles.net/)**
 
-[kitsunekko - Anime subtitles](https://kitsunekko.net/)
+**[kitsunekko - Anime subtitles](https://kitsunekko.net/)**
 
-[Downsubs - Downloads subtitles from YouTube](https://downsub.com/)
+**[Downsubs - Downloads subtitles from YouTube](https://downsub.com/)**
 
-[SubtitleEdit - Edit subtitles](https://github.com/SubtitleEdit/subtitleedit)
+**[SubtitleEdit - Edit subtitles](https://github.com/SubtitleEdit/subtitleedit)**
 
 # ➤ Subtitle CSE
