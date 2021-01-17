@@ -39,17 +39,17 @@ Filling out later
 
 # ➤ Sports
 
-## Basketball
+## ➪ Basketball
 
-## Football / NFL
+## ➪ Football / NFL
 
-## Soccer
+## ➪ Soccer
 
-## Hockey
+## ➪ Hockey
 
-## Boxing / MMA / UFC / WWE
+## ➪ Boxing / MMA / UFC / WWE
 
-## Formula 1 / Racing
+## ➪ Formula 1 / Racing
 
 # ➤ Documentary
 
@@ -67,6 +67,26 @@ Filling out later
 # ➤ Bollywood / Hindi
 
 # ➤ Legal Sites
+
+**[Tube - _Movies / TV_](https://tubitv.com/)** 
+
+**[PopcornFlix - _Movies / TV_](https://www.popcornflix.com/)**
+
+**[Crackle - _Movies / TV_](https://www.crackle.com/)**
+
+**[ShoutFactory - _Movies / TV_](https://www.shoutfactorytv.com/)**
+
+**[Pluto - _Movies / TV_](http://pluto.tv/on-demand)**
+
+**[Vudu - _Movies_](https://www.vudu.com/)**
+
+**[IMDB TV - _Movies / TV_](https://www.imdb.com/tv/)**
+
+**[StreamDor - _Movies on YouTube_](https://www.streamdor.com/)**
+
+**[FreeMovies - _Movies on YouTube_](https://freemovies.ltd/)**
+
+**[MoviesFoundOnline - _Movies on YouTube_](https://moviesfoundonline.com/)**
 
 # ➤ Subtitles
 
