@@ -132,3 +132,44 @@ Filling out later
 **[SubtitleEdit - Edit subtitles](https://github.com/SubtitleEdit/subtitleedit)**
 
 # ➤ Subtitle CSE
+
+# ➤ Hi Movies Clones
+
+- [HiMovies](https://www3.himovies.to) is a very popular website, and these clones can be used if it ever goes down.
+
+https://www2.6movies.net/
+https://www1.movieorca.com/
+https://www1.movierot.com/
+https://www.actvid.com/
+https://www.tikmovies.com/
+https://tinyzonetv.to/
+https://cineb.net/
+https://www.freshmoviestreams.net/
+https://myflixerhd.ru/
+https://myflixer.link/
+https://ainiesta.com/
+https://www3.f2movies.to/
+https://myflixer.com/
+https://ev01.to/
+https://www3.musichq.net/
+https://www1.zoechip.com/
+https://www1.attacker.tv/
+https://quitt.net/
+https://www1.seeingblind.net/
+https://www6.123moviesgo.tv/
+https://moviecracker.net/
+https://www1.ummagurau.com/
+https://fmovieshd.vip/
+https://moviesjoy.to/
+https://www.ladresstina.com/
+https://www2.smilestv.net/
+https://www.redbeltmovie.com/
+https://fullmoviehd4k.com/
+https://cataz.net/
+https://tinyzonetv.to/
+https://www.showboxmovies.net/
+https://www.watch4freemovies.com/
+https://www2.filmlicious.net/
+https://www.fullmoviefilm.org/
+https://www.moviekids.tv/
+https://www.freemovies360.com/
