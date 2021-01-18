@@ -1,4 +1,4 @@
-# The Extended Version of Movies and TV and Anime
+# The Extended Version of Movies and TV
 
 ## This will contain more sites then what's shown in the main megathread
 
@@ -40,29 +40,27 @@
 
 **[FShare](https://fsharetv.co/)**
 
-**[](https://www.lunchflix.org/)**
+**[LunchFlix](https://www.lunchflix.org/)**
 
-**[](https://uniquestream.vip/)**
+**[UniqueStream](https://uniquestream.vip/)**
 
-**[](https://fzmovies.net/)**
+**[FzMovies](https://fzmovies.net/)**
 
-**[](https://ww1.new-primewire.com/)**
+**[Primewire](https://ww1.new-primewire.com/)**
 
-**[](https://azm.to/)**
+**[AZM](https://azm.to/)**
 
-**[](https://yesmovies.sh/)**
+**[YesMovies](https://yesmovies.sh/)**
 
-**[](https://yesmovies.sh/)**
+**[GoPhie](https://gophie.cam/)**
 
-**[](https://gophie.cam/)**
+**[FlixGo](https://flixgo.biz/)**
 
-**[](https://flixgo.biz/)**
+**[SMFlix](https://smflix.cc/)**
 
-**[](https://smflix.cc/)**
+**[Streamlord](http://www.streamlord.com/)**
 
-**[](http://www.streamlord.com/)**
-
-**[](https://allmoviesforyou.co/)**
+**[AllMoviesForYou](https://allmoviesforyou.co/)**
 
 **[]()**
 
