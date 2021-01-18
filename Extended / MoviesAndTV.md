@@ -1,4 +1,4 @@
-# The Extended Version of Movies and TV
+# The Extended Version of Movies and TV and Anime
 
 ## This will contain more sites then what's shown in the main megathread
 
@@ -27,6 +27,70 @@
 **[LookMovie](https://lookmovie.io/)**
 
 **[HDBest](https://hdbest.net/)**
+
+**[FMovies](https://fmovies.name/)**
+
+**[WatchSoMuchTV](https://watchsomuch.tv/)**
+
+**[SuperNova](https://supernova.to/)**
+
+**[https://ww2.putlocker123.to/](https://ww2.putlocker123.to/)**
+
+**[Vumoo](https://vumoo.to/)**
+
+**[FShare](https://fsharetv.co/)**
+
+**[](https://www.lunchflix.org/)**
+
+**[](https://uniquestream.vip/)**
+
+**[](https://fzmovies.net/)**
+
+**[](https://ww1.new-primewire.com/)**
+
+**[](https://azm.to/)**
+
+**[](https://yesmovies.sh/)**
+
+**[](https://yesmovies.sh/)**
+
+**[](https://gophie.cam/)**
+
+**[](https://flixgo.biz/)**
+
+**[](https://smflix.cc/)**
+
+**[](http://www.streamlord.com/)**
+
+**[](https://allmoviesforyou.co/)**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+
+
+
+**[/r/animepiracy index - _Massive Anime Piracy Index_](https://piracy.moe)**
+
+**[Awesome Anime Sources - _Anime Sites_](https://github.com/anshumanv/awesome-anime-sources)**
+
+**[9Anime](https://9anime.zone)**
+
 
 # ➤ Hi Movies Clones
 
