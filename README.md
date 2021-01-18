@@ -137,6 +137,10 @@ Filling out later
 
 # ➤ Subtitle CSE
 
+This search engine will search all the subtitle sites above (except the last two) and can find almost everything! It's better to use this than to search one of those sites.
+
+[CSE](https://cse.google.com/cse?cx=fe358e68a87ad23cd)
+
 # ➤ Hi Movies Clones
 
 - [HiMovies](https://www3.himovies.to) is a very popular website, and these clones can be used if it ever goes down.
