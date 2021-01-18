@@ -62,13 +62,15 @@ Filling out later
 
 # ➤ Anime Streaming
 - Some anime sites may be in the lists above.
--  Don't watch anime, so that's why I decided to just include anime indexes.
 
 **[/r/animepiracy index - _Massive Anime Piracy Index_](https://piracy.moe)**
 
 **[Awesome Anime Sources - _Anime Sites_](https://github.com/anshumanv/awesome-anime-sources)**
 
 **[9Anime](https://9anime.zone)**
+
+# ➤ Anime Downloading
+
 
 # ➤ Sports Streaming
 
@@ -99,21 +101,12 @@ Filling out later
 
 **[SuperCartoons](https://www.supercartoons.net/)**
 
-**[]()**
+**[B98](https://www.b98.tv/)**
 
-**[]()**
+**[CartoonCrazy - _Cartoons / Anime](https://www.cartooncrazy.tv/)**
 
-**[]()**
+**[AnimeToon - _Cartoons / Anime](http://www.animetoon.org/)**
 
-**[]()**
-
-**[]()**
-
-**[]()**
-
-**[]()**
-
-**[]()**
 # ➤ Bollywood / Hindi
 
 # ➤ Legal Sites
@@ -176,3 +169,7 @@ This search engine will search all the subtitle sites above (except the last two
 
 
 # Tools / Browser Extensions / Misc
+
+**[OpenVideo - Customizable and Feature Rich Video Player That Doesn't Play the Ads](https://chrome.google.com/webstore/detail/openvideo-ad-free-streami/dadggmdmhmfkpglkfpkjdmlendbkehoh?hl=en)
+
+
