@@ -62,16 +62,13 @@ Filling out later
 
 # ➤ Anime Streaming
 - Some anime sites may be in the lists above.
-
-[View the Extended Collection Here]()
-
+-  Don't watch anime, so that's why I decided to just include anime indexes.
 
 **[/r/animepiracy index - _Massive Anime Piracy Index_](https://piracy.moe)**
 
+**[Awesome Anime Sources - _Anime Sites_](https://github.com/anshumanv/awesome-anime-sources)**
+
 **[9Anime](https://9anime.zone)**
-
-
-# ➤ Anime Downloading
 
 # ➤ Sports Streaming
 
@@ -94,9 +91,29 @@ Filling out later
 
 # ➤ Cartoons
 
-[KimCartoon](https://kimcartoon.to/)
+**[KimCartoon](https://kimcartoon.to/)**
 
+**[TopCartoons](https://www.topcartoons.tv/)**
 
+**[TooNova](http://www.toonova.net/)**
+
+**[SuperCartoons](https://www.supercartoons.net/)**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
 # ➤ Bollywood / Hindi
 
 # ➤ Legal Sites
