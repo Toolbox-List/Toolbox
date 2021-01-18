@@ -24,7 +24,9 @@
 
 **[Cine - _Movies / TV_](https://c1ne.co/)**
 
+**[LookMovie](https://lookmovie.io/)**
 
+**[HDBest](https://hdbest.net/)**
 
 # ➤ Hi Movies Clones
 
