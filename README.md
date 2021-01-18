@@ -28,7 +28,7 @@ Filling out later
 
 # ➤ Search Engine
 
-# ➤ Movies / TV
+# ➤ Movies / TV Streaming
 
 [View the Extended Collection Here]()
 
@@ -52,7 +52,7 @@ Filling out later
 
 # ➤ Downloading Movies / TV
 
-# ➤ Anime Only Sites
+# ➤ Anime Streaming
 - Some anime sites may be in the lists above.
 
 [View the Extended Collection Here]()
@@ -65,7 +65,7 @@ Filling out later
 
 # ➤ Anime Downloading
 
-# ➤ Sports
+# ➤ Sports Streaming
 
 [View the Extended Collection Here]()
 
@@ -226,4 +226,4 @@ https://www.moviekids.tv/
 https://www.freemovies360.com/
 
 
-# Tools / Misc.
+# Tools / Browser Extensions / Misc
