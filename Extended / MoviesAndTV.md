@@ -64,13 +64,13 @@
 
 **[AllMoviesForYou](https://allmoviesforyou.co/)**
 
-**[LosMovies - Movies, TV, Anime](https://losmovies.live/)**
+**[LosMovies - _Movies, TV, Anime_](https://losmovies.live/)**
 
 **[Primewire - Movies, TV, Anime](https://www.primewire.li/)**
 
-**[]()**
+**[MovieForums _Movies / TV_](https://movie-forum.co/forum.php)**
 
-**[]()**
+**[Dutafilm - _Movies / TV / Anime_](https://dutafilm.network/)**
 
 **[]()**
 
