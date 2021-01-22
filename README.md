@@ -135,6 +135,8 @@ Filling out later
 
 **[OpenSubtitles](https://www.opensubtitles.org/)**
 
+**[New Open Subtitles](https://www.opensubtitles.com)**
+
 **[Subtitle Cat](https://www.subtitlecat.com/)**
 
 **[Subtitles Web](https://subtitlesweb.com/)**
