@@ -1,8 +1,8 @@
 # The Extended Version of Movies and TV
 
-## This will contain more sites then what's shown in the main megathread
+This will contain more sites then what's shown in the main megathread
 
-## Streaming
+# Streaming
 
 **[Noxx - TV Shows](https://noxx.is)**
 
@@ -190,7 +190,7 @@
 
 **[]()**
 
-## Downloading
+# Downloading
 
 **[]()**
 
@@ -372,7 +372,7 @@
 
 **[]()**
 
-# ➤ Hi Movies Clones
+## Hi Movies Clones
 
 - [HiMovies](https://www3.himovies.to) is a very popular website, and these clones can be used if it ever goes down.
 
