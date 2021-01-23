@@ -112,39 +112,39 @@
 
 **[Ligaxxi - _Movies / TV_](http://ligaxxi.xyz/)**
 
-**[]()**
+**[123MoviesMe - _Movies / TV_](https://www.123moviesme.org/)**
 
-**[]()**
+**[MinionStream - _Movies / TV_](https://www.minionstream.com/)**
 
-**[]()**
+**[123MoviesX - _Movies / TV / Anime_](https://123moviesx.tv/)**
 
-**[]()**
+**[0123Movies - _Movies / TV_](https://watch0123movies.org/)**
 
-**[]()**
+**[123MoviesFree - _Movies / TV_](https://123moviesfree.net)**
 
-**[]()**
+**[WatchFree - _Movies / TV_](https://1watch-free.cc/)**
 
-**[]()**
+**[eMovies - _Movies / TV / Anime_](https://emovies.io/)**
 
-**[]()**
+**[GustaTV - _Movies / TV / Anime_](https://www2.gustatv.to/)**
 
-**[]()**
+**[PubFilms - _Movies / TV_](https://old.pubfilms.club/)**
 
-**[]()**
+**[WatchSeries - _Movies / TV / Anime_](https://wwatchseries.com/)**
 
-**[]()**
+**[Put-Locker - _Movies / TV / Anime_](https://ww1.put-locker.com/)**
 
-**[]()**
+**[Cinehub - _Movies / TV_](https://cinehub.wtf/)**
 
-**[]()**
+**[Flenix - _Movies / TV / Anime_](https://flenix.net/)**
 
-**[]()**
+**[HDFull - _Movies / TV / Anime_](https://hdfull.lv/)**
 
-**[]()**
+**[VidNext - _Movies / TV / Anime_](https://vidnext.net/)**
 
-**[]()**
+**[VidCloud9 - _Movies / TV / Anime_](https://vidcloud9.com/)**
 
-**[]()**
+**[Layarka - _Movies / TV_ *Use an AdBlocker*](https://layarkacaxxi.biz/)**
 
 **[]()**
 
