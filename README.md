@@ -149,6 +149,8 @@ Filling out later
 
 **[Podnapisi](https://www.podnapisi.net/)**
 
+**[Subscene](https://subscene.com/)**
+
 **[SubsPlease](https://subsplease.org/)**
 
 **[Subtitlist](https://subtitlist.com/)**
@@ -159,9 +161,22 @@ Filling out later
 
 **[kitsunekko - Anime subtitles](https://kitsunekko.net/)**
 
-**[Downsubs - Downloads subtitles from YouTube](https://downsub.com/)**
+**[Subs4Free](https://www.subs4free.info/)**
+
+**[English Subtitles](https://english-subtitles.org/)**
+
+**[TVSubtitles - _TV Show Subtitles_](http://www.tvsubtitles.net/)**
+
+**[MegaSubtitles](https://megasubtitles.com/)**
+
+**[iSubtitles](https://isubtitles.org/)**
+
+**[Downsubs - Downloads subtitles from YouTube and other Video Sites](https://downsub.com/)**
 
 **[SubtitleEdit - Edit subtitles](https://github.com/SubtitleEdit/subtitleedit)**
+
+**[Translate Subtitles](https://github.com/mepeichun/SubtitleTranslate)**
+
 
 # ➤ Subtitle CSE
 
