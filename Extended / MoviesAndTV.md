@@ -150,7 +150,7 @@ This will contain more sites then what's shown in the main megathread
 
 **[UniqueStream - _Movies / TV Anime_](https://uniquestream.vip/)**
 
-**[Ohh - _Movies / TV / Anime / Netflix Clone_](https://ohh.io)**
+**[Ohh - _Movies / TV / Anime / Netflix Clone_](https://ohh.io)** - This is a very good site with subtitles, multiple profiles and tracking where you left off, but it has a 60 minute limit for free accounts, their premium ones can get unlimited.
 
 **[Rainerland - _Movies / TV_](https://rainierland.to)**
 
