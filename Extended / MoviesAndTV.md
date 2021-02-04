@@ -146,15 +146,15 @@ This will contain more sites then what's shown in the main megathread
 
 **[Layarka - _Movies / TV_ *Use an AdBlocker*](https://layarkacaxxi.biz/)**
 
-**[MovieForFree](https://movieforfree.co)**
+**[MovieForFree - _Movies / TV_](https://movieforfree.co)**
 
-**[]()**
+**[UniqueStream - _Movies / TV Anime_](https://uniquestream.vip/)**
 
-**[]()**
+**[Ohh - _Movies / TV / Anime_](https://ohh.io)**
 
-**[]()**
+**[Rainerland - _Movies / TV_](https://rainierland.to)**
 
-**[]()**
+**[Afdah - _Movies / TV_](https://afdah.info)**
 
 **[]()**
 
