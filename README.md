@@ -62,6 +62,8 @@ Filling out later
 
 **[4K Club - _Movies / TV Shows in 4K_](https://4k-hd.club/)**
 
+**[50 TB Mega](https://mega.nz/folder/uN03wIiK#4IPxIxofHKoN6mdNuMRq1w)**
+
 # ➤ Anime Streaming
 - Some anime sites may be in the lists above.
 
