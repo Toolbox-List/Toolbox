@@ -156,23 +156,21 @@ This will contain more sites then what's shown in the main megathread
 
 **[Afdah - _Movies / TV_](https://afdah.info)**
 
-**[]()**
+**[GooJara - _Movies / TV_](https://www.goojara.to/)**
 
-**[]()**
+**[SeeHD - _Movies / TV / Anime_](https://seehd.nl/)**
 
-**[]()**
+**[NyaFilmer - _Movies / TV_](https://nyafilmer.vip/)**
 
-**[]()**
+**[TagMovies - _Movies / TV / Anime_](https://tagmovies.co/)**
 
-**[]()**
+**[SimpleStream - _Movies / TV / Anime_](https://simplestream.in/)**
 
-**[]()**
+**[BatFlix - _Movies / TV_](https://ww2.batflix.org/)**
 
-**[]()**
+**[TheMovieBay - _Movies / TV_](https://vww.themoviebay.net)**
 
-**[]()**
-
-**[]()**
+**[TheWebFlicks - _Movies_](https://thewebflicks.com/)**
 
 **[]()**
 
