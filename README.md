@@ -2,13 +2,15 @@
 
 > _hear me out. imagine pirating a movie, about pirates_
 
-# Streaming and Downloading Sites
+# Movie Piracy
 
 Pro Tip: Use [uBlock Origin](https://github.com/gorhill/uBlock#installation) on these sites or you are going to have a terrible time.
 
 Pro Tip: Use `CTRL + F` to search for what you want. Example: "anime" or the sport you are looking for.
 
 `CMD + F` on mac.
+
+This extended megathread features websites, applications, and IPTV providers.
 
 # Contents
 
@@ -188,6 +190,10 @@ This search engine will search all the subtitle sites above (except the last two
 
 [CSE](https://cse.google.com/cse?cx=fe358e68a87ad23cd)
 
+
+# IPTV
+
+To view the list of IPTV Subcriptions [click me!](https://gitlab.com/Stright16/streaming-and-downloading-sites/-/blob/master/Extended%20/IPTV.md#list-of-iptv-resellers)
 
 # Tools / Browser Extensions / Misc
 
