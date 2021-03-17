@@ -36,7 +36,7 @@ This will contain more sites then what's shown in the main megathread
 
 **[SuperNova](https://supernova.to/)**
 
-**[https://ww2.putlocker123.to/](https://ww2.putlocker123.to/)**
+**[PutLocker123](https://ww2.putlocker123.to/)**
 
 **[Vumoo](https://vumoo.to/)**
 
