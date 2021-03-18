@@ -10,7 +10,7 @@ Pro Tip: Use `CTRL + F` to search for what you want. Example: "anime" or the spo
 
 `CMD + F` on mac.
 
-This extended megathread features websites, applications, and IPTV providers.
+This extended megathread features websites, applications (Coming Soon), and IPTV providers.
 
 # Contents
 
@@ -27,6 +27,8 @@ Filling out later
 **[OpenSubtitles](https://www.opensubtitles.org/)**
 
 **[SubtitlesHub](https://subtitleshub.net/)**
+
+**[BFlix.to](https://www3.bflix.to)**
 
 # ➤ Search Engine
 
@@ -58,7 +60,7 @@ Filling out later
 
 **[Cine - _Movies / TV_](https://c1ne.co/)**
 
-**[LookMovie](https://lookmovie.io/)**
+**[LookMovie _Movies / TV_](https://lookmovie.io/)**
 
 # ➤ Downloading Movies / TV
 
@@ -81,7 +83,6 @@ Filling out later
 # ➤ Sports Streaming
 
 [View the Extended Collection Here]()
-
 
 **[Live-Streams - _21 Different Sports_](https://live-nfl.stream/partners)**
 
@@ -109,11 +110,9 @@ Filling out later
 
 **[B98](https://www.b98.tv/)**
 
-**[CartoonCrazy - _Cartoons / Anime](https://www.cartooncrazy.tv/)**
+**[CartoonCrazy - _Cartoons / Anime_](https://www.cartooncrazy.tv/)**
 
-**[AnimeToon - _Cartoons / Anime](http://www.animetoon.org/)**
-
-# ➤ Bollywood / Hindi
+**[AnimeToon - _Cartoons / Anime_](http://www.animetoon.org/)**
 
 # ➤ Legal Sites
 
