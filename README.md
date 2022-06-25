@@ -1,7 +1,3 @@
-# ![](https://i.imgur.com/JmWbilh.png)
-
-> _hear me out. imagine pirating a movie, about pirates_
-
 # Movie Piracy
 
 Pro Tip: Use [uBlock Origin](https://github.com/gorhill/uBlock#installation) on these sites or you are going to have a terrible time.
@@ -34,7 +30,7 @@ Filling out later
 
 # ➤ Movies / TV Streaming
 
-**⭐[View the Extended Collection Here (Contains the sites below, and a lot more!)](https://gitlab.com/shubsalt/streaming-and-downloading-sites/-/blob/master/Extended%20/%20MoviesAndTV.md)⭐**
+**⭐[View the Extended Collection Here (Contains the sites below, and a lot more!)](Extended/MoviesAndTV.md)⭐**
 
 **[Noxx - TV Shows](https://noxx.is)**
 
@@ -140,6 +136,9 @@ Filling out later
 
 **[OpenSubtitles](https://www.opensubtitles.org/)**
 
+**[Subscene](https://subscene.com/)**
+
+
 **[New Open Subtitles](https://www.opensubtitles.com)**
 
 **[Subtitle Cat](https://www.subtitlecat.com/)**
@@ -153,8 +152,6 @@ Filling out later
 **[Subtitles](https://www.subtitles.hr/)**
 
 **[Podnapisi](https://www.podnapisi.net/)**
-
-**[Subscene](https://subscene.com/)**
 
 **[SubsPlease](https://subsplease.org/)**
 
@@ -185,14 +182,9 @@ Filling out later
 
 # ➤ Subtitle CSE
 
-This search engine will search all the subtitle sites above (except the last two) and can find almost everything! It's better to use this than to search one of those sites.
+This search engine will search all the subtitle sites above (except the last two)
 
 [CSE](https://cse.google.com/cse?cx=fe358e68a87ad23cd)
-
-
-# IPTV
-
-To view the list of IPTV Subcriptions [click me!](https://gitlab.com/Stright16/streaming-and-downloading-sites/-/blob/master/Extended%20/IPTV.md#list-of-iptv-resellers)
 
 # Tools / Browser Extensions / Misc
 
