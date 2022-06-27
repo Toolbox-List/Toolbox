@@ -26,8 +26,6 @@ Filling out later
 
 **[BFlix.to](https://www3.bflix.to)**
 
-# ➤ Search Engine
-
 # ➤ Movies / TV Streaming
 
 **⭐[View the Extended Collection Here (Contains the sites below, and a lot more!)](Extended/MoviesAndTV.md)⭐**
