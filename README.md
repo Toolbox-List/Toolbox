@@ -6,7 +6,7 @@ Pro Tip: Use `CTRL + F` to search for what you want. Example: "anime" or the spo
 
 `CMD + F` on mac.
 
-This extended megathread features websites, applications (Coming Soon), and IPTV providers.
+This extended megathread features more websites than this list.
 
 # Contents
 
