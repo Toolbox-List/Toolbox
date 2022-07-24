@@ -9,8 +9,6 @@ Health / Workout Trackers, ...
 # Period / Cycle Tracking Apps
 Private / End To End Encrypted Period Tracking Apps
 
-# Table of Contents
-
 ### iOS
 - [**Apple Health Period Tracker**](https://support.apple.com/en-us/HT210407)
 - [**Stardust Period Tracker**](https://thestardustapp.com) - Android Coming Soon
