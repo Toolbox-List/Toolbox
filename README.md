@@ -18,4 +18,7 @@ Toolbox is my attempt at making a consildated list of resources that can be foun
 
 ## Piracy
 - [**Movie / TV / Anime Piracy Sites**](streaming/movie-streaming.md#movie-tv-show-anime-streaming)
+
 ## Misc
+- [**Downloading Tools**](downloading.md)
+- [**Health Tools**](health.md)
