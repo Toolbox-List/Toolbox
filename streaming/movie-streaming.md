@@ -26,3 +26,8 @@ Pro Tip: Use `CTRL + F` to search for what you want. Example: "anime" or the spo
 - [**M4uFree**](https://m4ufree.com)
 - [**RainierLand**](https://rainierland.to)
 - [**Series9**](https://series9.la)
+- [**YesMovies**](https://yesmovies.ag)
+- [**SolarMovie**](https://solarmovie.to)
+- [**123Movie**](https://ww5.0123movie.net)
+- [**PutLocker**](https://putlocker.vip)
+- [**CinemaShack**](https://cinemashack.co)
