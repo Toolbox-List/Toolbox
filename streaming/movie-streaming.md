@@ -31,3 +31,4 @@ Pro Tip: Use `CTRL + F` to search for what you want. Example: "anime" or the spo
 - [**123Movie**](https://ww5.0123movie.net)
 - [**PutLocker**](https://putlocker.vip)
 - [**CinemaShack**](https://cinemashack.co)
+- [**FshareTV](https://fsharetv.co)
