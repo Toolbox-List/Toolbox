@@ -18,6 +18,7 @@ Password Managers, 2FA apps
 
 # 2FA
 
+- [2fa.directory](https://2fa.directory/int) - _See which services support what type of 2FA (Email, SMS, software / hardware token)_
 - [**Authy**](https://authy.com) ✓ - _All Platforms_
 - [**Microsoft Authenticator**](https://www.microsoft.com/en-us/security/mobile-authenticator-app) - _Android / iOS_
 - [**Tofu**](https://tofuauth.com) - _iOS_
