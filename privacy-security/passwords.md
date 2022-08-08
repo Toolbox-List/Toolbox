@@ -1,8 +1,8 @@
 # Passwords
 Password Managers, 2FA apps
 
-- [Password Strength Chart](https://hivesystems.io/blog/are-your-passwords-in-the-green)
-- [Password Manager Emergency Kit](https://passwordbits.com/password-manager-emergency-sheet) - _If you use 1Password, it comes with it's own emergency kit._
+- [**Password Strength Chart**](https://hivesystems.io/blog/are-your-passwords-in-the-green)
+- [**Password Manager Emergency Kit**](https://passwordbits.com/password-manager-emergency-sheet) - _If you use 1Password, it comes with it's own emergency kit._
 
 # Cloud Based Password Managers
 
