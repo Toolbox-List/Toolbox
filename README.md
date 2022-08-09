@@ -10,6 +10,7 @@ Toolbox is my attempt at making a consildated list of resources that can be foun
 - [**Password Tools**](privacy-security/passwords.md)
 
 ## Gaming
+- [**Game Piracy Sites**](gaming/game-piracy.md)
 
 ## Reading
 
@@ -18,6 +19,8 @@ Toolbox is my attempt at making a consildated list of resources that can be foun
 
 ## Piracy
 - [**Movie / TV / Anime Piracy Sites**](streaming/movie-streaming.md#movie-tv-show-anime-streaming)
+- [**Game Piracy Sites**](gaming/game-piracy.md)
+
 
 ## Misc
 - [**Downloading Tools**](downloading.md)
