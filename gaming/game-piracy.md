@@ -3,9 +3,7 @@
 ## Quick Links
 
 - [DDL Sites](#ddl-sites)
-
 - [Repack Sites](#repack-sites)
-
 - [Torrent Sites](#torrent-sites)
 
 # DDL Sites
@@ -61,7 +59,7 @@ Use a VPN and a torrent client like qBittorrent.
 
 - [**1337x**](https://1337x.to)
 - [**RARGB**](https://rargb.to)
-- [RuTracker](http://rutracker.org)
+- [**RuTracker**](http://rutracker.org)
 - [**TorrentGalaxy**](https://torrentgalaxy.to)
 - [**Cloud Torrents**](https://cloudtorrents.com)
 - [**FitGirl Repacks**](http://fitgirl-repacks.site)
