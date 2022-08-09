@@ -1,7 +1,8 @@
 # Toolbox
 Toolbox is my attempt at making a consildated list of resources that can be found across the web. 
-[Github](https://github.com/Toolbox-List/Toolbox)
-[Gitlab](https://gitlab.com/toolbox-resources/toolbox)
+
+- [Github](https://github.com/Toolbox-List/Toolbox)
+- [Gitlab](https://gitlab.com/toolbox-resources/toolbox)
 
 # Contents
 ## Privacy / Security / Ad-Blocking
