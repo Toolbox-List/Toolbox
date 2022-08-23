@@ -34,3 +34,8 @@ Pro Tip: Use `CTRL + F` to search for what you want. Example: "anime" or the spo
 - [**FshareTV**](https://fsharetv.co)
 - [**SockShare**](https://sockshare.ac)
     - [_SockShare Clones_](https://gitlab.com/toolbox-resources/lists/-/raw/main/sockshare.ac.txt)
+- [**123MoviesFree**](https://ww1.123moviesfree.net)
+- [**123MoviesGoTo**](https://123moviesgoto.com)
+- [**StreamLord**](http://streamlord.com)
+- [**Cine**](https://cine.to)
+- [**GooJara**](https://www.goojara.to/)
