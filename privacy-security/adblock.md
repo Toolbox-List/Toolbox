@@ -5,7 +5,7 @@ Ad-Blockers for Browsers, Windows, Mac, Android and iOS.
 # Ad-Blocking Extensions
 
 - [**uBlock Origin ✓**](https://github.com/gorhill/uBlock#installation)
-- [**AdGuard Browser Extension**](https://github.com/AdguardTeam/AdguardBrowserExtension#installation)
+- [**AdGuard Browser Extension ✓**](https://github.com/AdguardTeam/AdguardBrowserExtension#installation)
 - [**OpenVideo**](https://openvideofs.github.io) - Ad Free Video Player
 - [**SponsorBlock ✓**](https://sponsor.ajay.app) - Block YouTube Sponsors that regular adblockers cannot block
 - [**Popup Blocker**](https://github.com/schomery/popup-blocker#installation)
