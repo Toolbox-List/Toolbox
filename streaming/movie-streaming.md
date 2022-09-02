@@ -39,3 +39,6 @@ Pro Tip: Use `CTRL + F` to search for what you want. Example: "anime" or the spo
 - [**StreamLord**](http://streamlord.com)
 - [**Cine**](https://cine.to)
 - [**GooJara**](https://www.goojara.to/)
+- [**TheFlixer](https://theflixer.tv)
+- [**MoviesOnlineFree**](https://moviesonlinefree.net)
+- [**Flixtor.Stream**](https://flixtor.stream)
