@@ -1,8 +1,11 @@
 # Toolbox
-Toolbox is my attempt at making a consildated list of resources that can be found across the web. 
+Toolbox is a list of websites, applications and tools that can be found across the internet. Toolbox is heavily inspired by FREEMEDIAHECKYEAH. 
+
 
 - [Github](https://github.com/Toolbox-List/Toolbox)
 - [Gitlab](https://gitlab.com/toolbox-resources/toolbox)
+- [Download Toolbox (.md files)](https://gitlab.com/toolbox-resources/toolbox/-/archive/master/toolbox-master.zip)
+
 
 # Contents
 ## Privacy / Security / Ad-Blocking
