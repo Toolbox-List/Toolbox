@@ -11,6 +11,7 @@ Toolbox is my attempt at making a consildated list of resources that can be foun
 - [**VPN**](privacy-security/vpn.md)
 - [**Anti Virus**](privacy-security/anti-virus.md)
 - [**Password Tools**](privacy-security/passwords.md)
+- [**Encryption Tools**](privacy-security/encryption.md)
 
 ## Gaming
 - [**Game Piracy Sites**](gaming/game-piracy.md)
@@ -19,12 +20,15 @@ Toolbox is my attempt at making a consildated list of resources that can be foun
 
 ## Movies / TV / Sports / Anime
 - [**Movie / TV / Anime Streaming**](streaming/movie-streaming.md#movie-tv-show-anime-streaming)
+- [**Sports**](streaming/sports.md)
 
 ## Piracy
 - [**Movie / TV / Anime Piracy Sites**](streaming/movie-streaming.md#movie-tv-show-anime-streaming)
+- [**Sports**](streaming/sports.md)
 - [**Game Piracy Sites**](gaming/game-piracy.md)
-
+- [Software Piracy](software.md)
 
 ## Misc
-- [**Downloading Tools**](downloading.md)
+- [**Torrenting**](torrenting.md)
 - [**Health Tools**](health.md)
+- [Software](software.md)
