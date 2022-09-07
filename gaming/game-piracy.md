@@ -6,6 +6,8 @@
 - [Repack Sites](#repack-sites)
 - [Torrent Sites](#torrent-sites)
 
+- [RaveGameSearch](https://idleendeavor.github.io/gamesearch/#gsc.tab=0)
+
 # DDL Sites
 Can be downloaded directly in the browser or with a download manager
 - [**Free Media Heck Yeah's Game Site List**](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki.25BAdownloadgames)
