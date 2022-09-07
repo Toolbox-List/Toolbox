@@ -42,3 +42,4 @@ Pro Tip: Use `CTRL + F` to search for what you want. Example: "anime" or the spo
 - [**TheFlixer](https://theflixer.tv)
 - [**MoviesOnlineFree**](https://moviesonlinefree.net)
 - [**Flixtor.Stream**](https://flixtor.stream)
+- [BeMovies](https://bemovies.co)
