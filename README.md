@@ -1,5 +1,6 @@
 # Toolbox
-Toolbox is a list of websites, applications and tools that can be found across the internet. Toolbox is heavily inspired by FREEMEDIAHECKYEAH. 
+Toolbox is a list of websites, applications and tools that can be found across the internet. 
+Toolbox is heavily inspired by FREEMEDIAHECKYEAH. 
 
 
 - [Github](https://github.com/Toolbox-List/Toolbox)
