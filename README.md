@@ -30,9 +30,10 @@ Toolbox is heavily inspired by FREEMEDIAHECKYEAH.
 - [**Movie / TV / Anime Piracy Sites**](streaming/movie-streaming.md#movie-tv-show-anime-streaming)
 - [**Sports**](streaming/sports.md)
 - [**Game Piracy Sites**](gaming/game-piracy.md)
-- [Software Piracy](software.md)
+- [**Software Piracy**](software.md)
 
 ## Misc
 - [**Torrenting**](torrenting.md)
 - [**Health Tools**](health.md)
-- [Software](software.md)
+- [**Software**](software.md)
+- [**File Sharing Sites**](file-sharing.md)
