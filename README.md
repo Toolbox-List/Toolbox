@@ -37,3 +37,4 @@ Toolbox is still a work in progress, but new sites are being added every day.
 - [**Health Tools**](health.md)
 - [**Software**](software.md)
 - [**File Sharing Sites**](file-sharing.md)
+- [**Note Taking Apps**](note-taking.md)
