@@ -1,5 +1,7 @@
 # Game Piracy
 
+> Support game developers when you can :)
+
 ## Quick Links
 
 - [DDL Sites](#ddl-sites)
