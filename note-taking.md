@@ -10,3 +10,4 @@
 - [**Notesnook**](https://notesnook.com) - E2EE Notes
 
 # Hand Writen Notes
+- [**GoodNotes**](https://goodnotes.com) - For iPad
