@@ -39,7 +39,7 @@ Can be downloaded directly in the browser or with a download manager
 - [**AimHaven**](https://aimhaven.com)
 - [**Skidrow Reloaded**](https://skidrowreloaded.com) - Generally disliked for having a scene group name. Use at your own risk
 - [**FlashTro**](https://flashtro.com) - Retro Games
-***
+
 # Repack Sites
 Highly Compressed Game Downloads, better for people with slower / limited internet connections
 
