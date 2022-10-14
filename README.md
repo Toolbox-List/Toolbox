@@ -3,6 +3,7 @@ Toolbox is a list of websites, applications and tools that can be found across t
 
 Toolbox is still a work in progress, but new sites are being added every day. 
 
+Toolbox is synced between Github and Gitlab. I also keep local and cloud backups of Toolbox. 
 - [Github](https://github.com/Toolbox-List/Toolbox)
 - [Gitlab](https://gitlab.com/toolbox-resources/toolbox)
 - [Download Toolbox (.md files)](https://gitlab.com/toolbox-resources/toolbox/-/archive/master/toolbox-master.zip)
