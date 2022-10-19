@@ -8,7 +8,7 @@ Toolbox is synced between Github and Gitlab. I also keep local and cloud backups
 - [Gitlab](https://gitlab.com/toolbox-resources/toolbox)
 - [Download Toolbox (.md files)](https://gitlab.com/toolbox-resources/toolbox/-/archive/master/toolbox-master.zip)
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgitlab.com%2Ftoolbox-resources%2Ftoolbox&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # Contents
 ## Privacy / Security / Ad-Blocking
 
