@@ -4,6 +4,9 @@ Third party iOS app stores
 - [**AppDB**](https://appdb.to)
 - [**iOSHaven**](https://ioshaven.com)
 - [**AppAddict**](https://appaddict.org)
+- [**iOS Ninja**](https://iosninja.io/ipa-library)
+- [**OMTK**](https://omtk.vip)
+
 
 # iOS Signing Services
 Sideload unlimited apps with no revokes _(paid)_
