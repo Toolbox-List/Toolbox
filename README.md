@@ -3,8 +3,4 @@ Toolbox is a consolidated list of webistes, applications and tools from across t
 
 Toolbox can be accessed from the following:
 1. https://Toolbox-List.github.io/Toolbox
-2. soon
-
-
-
-https://romsunlocked.com/
+2. Toolbox Mirrors are coming soon
