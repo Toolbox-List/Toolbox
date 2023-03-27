@@ -17,13 +17,13 @@
 html,
 body {
 	background-image: none !important;
-	background-color: rgba(40, 42, 54, 1) !important;
+	background-color: rgb(40, 42, 54) !important;
 }
 
 /* text*/
 body * {
 	color: rgb(255, 255, 255);
-	background-color: rgba(40, 42, 54, 1) !important;
+	background-color: rgb(40, 42, 54) !important;
     font-family: "Roboto", sans-serif;
     text-align: left;
     /* overflow-x: hidden; */
@@ -31,7 +31,7 @@ body * {
 
 a,
 a * {
-	color: rgba(80, 250, 123, 1) !important;
+	color: rgb(80, 250, 123) !important;
 	background-color: transparent !important;
 }
 
@@ -48,12 +48,12 @@ div[onclick]:hover,
 [role="menuitem"]:hover *,
 .link:hover,
 .link:hover * {
-	color: rgba(241, 250, 140, 1) !important;
+	color: rgb(241, 250, 140) !important;
 }
 
 a:visited,
 a:visited * {
-	color: rgba(98, 114, 164, 1) !important;
+	color: rgb(98, 114, 164) !important;
 }
 
 /* Text that becomes yellow */
@@ -71,22 +71,22 @@ u,
 [id*="header"],
 [class*="header"],
 [class*="header"] td {
-	color: rgba(255, 184, 108, 1) !important;
+	color: rgb(255, 184, 108) !important;
 }
 
 table {
-	background-color: rgba(40, 42, 54, 1) !important;
+	background-color: rgb(40, 42, 54) !important;
 }
 
 [id*="overlay"],
 [id*="lightbox"],
 blockquote {
-	background-color: rgba(68, 71, 90, 1) !important;
+	background-color: rgb(68, 71, 90) !important;
 }
 
 pre,
 dl {
-	background-color: rgba(68, 71, 90, 1) !important;
+	background-color: rgb(68, 71, 90) !important;
 }
 
 input,
@@ -102,14 +102,14 @@ a.TabLink,
 	appearance: none !important;
 	-moz-appearance: none !important;
 	-webkit-appearance: none !important;
-	background: rgba(68, 71, 90, 1) !important;
+	background: rgb(68, 71, 90) !important;
 }
 
 textarea {
 	appearance: none !important;
 	-moz-appearance: none !important;
 	-webkit-appearance: none !important;
-	background: rgba(68, 71, 90, 1) !important;
+	background: rgb(68, 71, 90) !important;
 }
 
 div,
@@ -126,7 +126,7 @@ a.active *,
 .selected *,
 [href="#"] {
 	font-weight: bold !important;
-	color: rgba(139, 233, 253, 1) !important;
+	color: rgb(139, 233, 253) !important;
 }
 /* End Main Site Theme */
 
