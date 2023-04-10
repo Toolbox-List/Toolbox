@@ -1,9 +1,3 @@
-/* Theme */
-
-.category-navbar {
-  font-size: 30px;
-}
-
 /* Text Selection Color*/
 
 ::-moz-selection {
@@ -53,6 +47,8 @@ div[onclick]:hover,
   color: rgb(241, 250, 140) !important;
 }
 
+
+/* changes the colour of visited links */
 a:visited,
 a:visited * {
   color: rgb(98, 114, 164) !important;
@@ -196,10 +192,4 @@ a.active *,
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
   filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
-}
-
-/* End Tooltips */
-
-.main-site-listing * {
-  text-align: left !important;
 }
