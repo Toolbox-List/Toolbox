@@ -4,8 +4,11 @@ Toolbox is a consolidated list of webistes, applications and tools from across t
 Toolbox can be accessed from the following:
 1. https://toolbox-list.github.io/Toolbox
 2. https://tool-box.pages.dev
+3. GitLab Pages mirror coming soon
 
-Toolbox source code is mirrored on Github and GitLab. (At the moment, the GitLab mirror is behind, but I am working on fixing this.)
+Toolbox source code is mirrored on Github and GitLab.
+1. https://github.com/Toolbox-List/Toolbox
+2. https://gitlab.com/toolbox-resources/toolbox
 
 # Contributing
 You can contribute to Toolbox by opening an issue or a pull request.
