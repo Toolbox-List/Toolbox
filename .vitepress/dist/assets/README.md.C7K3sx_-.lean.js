@@ -1,0 +1,1 @@
+import{_ as o,c as e,o as t,a2 as r}from"./chunks/framework.Dl9fQCv-.js";const x=JSON.parse('{"title":"Toolbox","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),a={name:"README.md"},i=r("",11),l=[i];function s(n,b,c,h,p,d){return t(),e("div",null,l)}const _=o(a,[["render",s]]);export{x as __pageData,_ as default};

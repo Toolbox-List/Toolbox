@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,a2 as a}from"./chunks/framework.Dl9fQCv-.js";const m=JSON.parse('{"title":"Investments","description":"","frontmatter":{},"headers":[],"relativePath":"invest.md","filePath":"invest.md"}'),o={name:"invest.md"},n=a("",8),s=[n];function l(i,c,h,g,f,d){return t(),r("div",null,s)}const u=e(o,[["render",l]]);export{m as __pageData,u as default};

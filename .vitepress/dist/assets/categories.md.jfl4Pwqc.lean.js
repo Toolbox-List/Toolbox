@@ -1,0 +1,1 @@
+import{_ as a,c as r,o as e,a2 as t}from"./chunks/framework.Dl9fQCv-.js";const f=JSON.parse('{"title":"Categories","description":"","frontmatter":{},"headers":[],"relativePath":"categories.md","filePath":"categories.md"}'),i={name:"categories.md"},o=t("",19),s=[o];function l(n,h,c,g,d,m){return e(),r("div",null,s)}const p=a(i,[["render",l]]);export{f as __pageData,p as default};

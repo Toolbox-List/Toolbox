@@ -1,0 +1,1 @@
+import{_ as r,c as t,o as e,a2 as n}from"./chunks/framework.Dl9fQCv-.js";const f=JSON.parse('{"title":"Torrenting","description":"","frontmatter":{},"headers":[],"relativePath":"torrenting.md","filePath":"torrenting.md"}'),o={name:"torrenting.md"},a=n("",5),i=[a];function s(l,_,g,p,c,h){return e(),t("div",null,i)}const u=r(o,[["render",s]]);export{f as __pageData,u as default};

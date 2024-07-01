@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r,a2 as t}from"./chunks/framework.Dl9fQCv-.js";const f=JSON.parse('{"title":"eMail Tools / Services","description":"","frontmatter":{},"headers":[],"relativePath":"email.md","filePath":"email.md"}'),o={name:"email.md"},l=t("",6),i=[l];function s(n,c,d,m,h,p){return r(),a("div",null,i)}const g=e(o,[["render",s]]);export{f as __pageData,g as default};

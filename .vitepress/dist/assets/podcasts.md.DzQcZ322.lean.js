@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as s,j as o}from"./chunks/framework.Dl9fQCv-.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"podcasts.md","filePath":"podcasts.md"}'),a={name:"podcasts.md"},c=o("p",null,"soon 😃",-1),n=[c];function r(d,p,_,i,l,m){return s(),e("div",null,n)}const u=t(a,[["render",r]]);export{h as __pageData,u as default};

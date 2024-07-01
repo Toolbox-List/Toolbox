@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as r,a2 as t}from"./chunks/framework.Dl9fQCv-.js";const k=JSON.parse('{"title":"Health","description":"","frontmatter":{},"headers":[],"relativePath":"health.md","filePath":"health.md"}'),o={name:"health.md"},i=t("",22),n=[i];function l(s,h,d,p,c,u){return r(),e("div",null,n)}const b=a(o,[["render",l]]);export{k as __pageData,b as default};
