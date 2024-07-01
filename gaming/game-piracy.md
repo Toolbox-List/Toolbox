@@ -23,6 +23,7 @@ Can be downloaded directly in the browser or with a download manager
 - [**GOG-Games**](https://gog-games.com) - Untouched DRM Free Games
 - [**DOS Game Archive**](https://dosgamesarchive.com)
 - [**GamesDrive**](https://gamesdrive.net)
+- [**SteamGG**](https://steamgg.net)
 - [**SCNLOG.ME**](https://scnlog.me/games) - Links to the games section
 - [**SteamRIP**](https://steamrip.com)
 - [**A Broke Gamer**](https://abrokegamer.com)
@@ -40,7 +41,7 @@ Can be downloaded directly in the browser or with a download manager
 
 ## Repack Sites
 
-Highly Compressed Game Downloads, better for people with slower / limited internet connections
+Compressed Game Downloads, better for people with slower / limited internet connections. 
 
 - [**FitGirl Repacks**](http://fitgirl-repacks.site) ✓
 - [**Masquerade Repacks**](https://masquerade.site) - [Discord](https://discord.com/invite/HP5sQ6c) ✓

@@ -2,11 +2,15 @@
 
 Sites to watch movies, tv shows, anime. Sites to download subtitles, other streaming tools that may be useful.
 
-**Pro Tip:** Use an adblocker on these sites or you are going to have a terrible time.
-
-# Movies / TV / Anime Streaming
+::: tip 
+Use an adblocker on these sites or you are going to have a terrible time.
+:::
 
 *Sites listed here are primarily movie / tv show sites, check the anime page for dedicated anime sites*
+
+
+- [**FMHY Wiki**](https://fmhy.net/videopiracyguide) ✓
+- [**Streaming Sites**](https://streamingsites.com) ✓
 
 - [**Oligopoly**](https://olgply.com) ✓
 - [**PrivateHD**](https://privatehd.xyz)
@@ -74,6 +78,3 @@ Sites to watch movies, tv shows, anime. Sites to download subtitles, other strea
 - [**Noxx**](https://noxx.to) - TV Shows
 - [**123Chill**](https://123chill.to)
 - [**Watch So Much**](https://watchsomuch.com)
-
-- FMHY
-- [**Streaming Sites**](https://streamingsites.com)

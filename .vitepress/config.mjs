@@ -2,14 +2,13 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Toolbox",
-  description: "A VitePress Site",
+  title: "🧰 Toolbox",
+  description: "Toolbox is a consolidated list of websites, applications and tools from across the internet. ",
   base: '/Toolbox/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
     ],
 
     sidebar: [

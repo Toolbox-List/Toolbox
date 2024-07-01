@@ -5,21 +5,25 @@ layout: home
 hero:
   name: "Toolbox"
   text: ""
-  tagline: Toolbox is a consolidated list of websites, applications and tools from across the internet
+  tagline: Toolbox is a consolidated list of websites, applications and tools from across the internet.
   actions:
     - theme: brand
       text: Categories
       link: /categories
     - theme: alt
-      text: Markdown Examples
-      link: /markdown-examples
+      text: About
+      link: /about
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Consolidated Resources
+    details: Explore a comprehensive collection of internet resources, all in one place, to make finding the right tool for any task easier and more efficient.
+
+  - title: Community-Reviewed Tools
+    details: Access a curated list of websites and applications that have been thoroughly reviewed and recommended by the community for their reliability and usefulness.
+
+  - title: Collaborative and Editable
+    details: Toolbox is a living resource that anyone can contribute to. Join our community and help keep the list of tools up-to-date and comprehensive by suggesting new additions or updates.
+
+
 ---
 

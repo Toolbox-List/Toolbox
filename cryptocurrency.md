@@ -11,12 +11,13 @@ Price / Portfolio Tracker, Wallets, Trusted News Sources
 
 ### Hardware Wallets
 
-- Tangem Wallet
+- [**Tangem Wallet**](https://tangem.com)
 - [**Ledger**](https://ledger.com) 
 - [**Trezor**](https://trezor.io)
 
 ### Software Wallets
-- Trust Wallet
+- [**Trust Wallet**](https://trustwallet.com) ✓
+- [**Coinbase Wallet**](https://www.coinbase.com/en-ca/wallet)
 - [**MetaMask**](https://metamask.io)
 - [**Exodus**](https://exodus.io)
 - [**CakeWallet**](https://cakewallet.com)
