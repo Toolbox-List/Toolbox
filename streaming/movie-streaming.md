@@ -1,6 +1,6 @@
 # Movie / TV Show / Anime Streaming
 
-Sites to watch movies, tv shows, anime. Sites to download subtitles, other streaming tools that may be useful.
+Sites to watch movies, tv shows, anime. 
 
 ::: tip 
 Use an adblocker on these sites or you are going to have a terrible time.

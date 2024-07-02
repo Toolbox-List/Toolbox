@@ -26,6 +26,7 @@
 - [**Note Taking Apps**](note-taking)
 - [**Email**](email)
 - [**Indexes**](indexes)
+- [**Subtitles**](streaming/subtitles)
 
 ### iOS
 - [**iOS 3rd Party App Stores**](ios/ios-apps)
