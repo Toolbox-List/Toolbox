@@ -1,12 +1,5 @@
 # 🕹️ Game Piracy Sites
 
-### Quick Links
-
-1. [**Direct Download Sites**](#ddl-sites)
-2. [**Repack Sites**](#repack-sites)
-3. [**Torrent Sites**](#torrent-sites)
-4. [**Sites to Avoid**](#avoid)
-
 ## DDL Sites
 
 Can be downloaded directly in the browser or with a download manager

@@ -2,7 +2,7 @@
 
 [Check the torrenting sites section if you want to torrent software](torrenting.html)
 
-# Software Piracy
+## Software Piracy
 
 - [**FileCR**](https://filecr.com) - Windows / Mac / Android
 - [**LRepacks**](https://lrepacks.net)
