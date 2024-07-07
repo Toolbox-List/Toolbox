@@ -1,7 +1,7 @@
 # Investments
 Stock / Portfolio Trackers, Trusted News Sources, Guides
 
-## Stock / Portfolio Trackers
+## Stock Market Tracking
 
 - [**TradingView**](https://tradingview.com) ✓
 - [**Yahoo Finance**](https://finance.yahoo.com) ✓
@@ -11,7 +11,12 @@ Stock / Portfolio Trackers, Trusted News Sources, Guides
 - [**Bloomberg**](https://bloomberg.com)
 - [**Wall Street Journal**](https://wsj.com)
 - [**StockTwits**](https://stocktwits.com)
+
+## Portfolio Tracking
+
 - [**GetQuin**](https://getquin.com)
+- [**Snowball Analytics**](https://snowball-analytics.com)
+
 
 
 ## Trusted News Sources
