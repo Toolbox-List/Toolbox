@@ -27,6 +27,7 @@
 - [**Email**](email)
 - [**Indexes**](indexes)
 - [**Subtitles**](streaming/subtitles)
+- [**Podcasts**](podcasts)
 
 ### iOS
 - [**iOS 3rd Party App Stores**](ios/ios-apps)
