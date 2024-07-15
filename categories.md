@@ -46,4 +46,4 @@
 
 ### Investing
 - [**Crypto Currency**](cryptocurrency)
-- [**Stocks**](invest)
+- [**Stocks / Investing**](invest)
