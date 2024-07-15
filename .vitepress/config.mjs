@@ -20,8 +20,13 @@ export default defineConfig({
         text: 'Privacy / Security',
         items: [
           { text: 'AdBlock', link: '/privacy-security/adblock' },
+          { text: 'Anti Virus', link: '/privacy-security/antivirus' },
+          { text: 'Encryption', link: '/privacy-security/encryption' },
+          { text: 'Passwords', link: '/privacy-security/passwords' },
+          { text: 'Search Engines', link: '/privacy-security/privacy-search-engines' },
+          { text: 'VPN', link: '/privacy-security/vpn' },
         ],
-
+        
       }
     ],
 
