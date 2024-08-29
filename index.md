@@ -22,7 +22,7 @@ features:
     details: Access a curated list of websites and applications that have been thoroughly reviewed and recommended by the community for their reliability and usefulness.
 
   - title: Collaborative and Editable
-    details: Toolbox is a living resource that anyone can contribute to. Join our community and help keep the list of tools up-to-date and comprehensive by suggesting new additions or updates.
+    details: Toolbox is a living resource that anyone can contribute to. Everyone can help keep the list of tools up-to-date and comprehensive by suggesting new additions or updates.
 
 
 ---

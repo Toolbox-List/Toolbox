@@ -28,6 +28,7 @@
 - [**Indexes**](indexes)
 - [**Subtitles**](streaming/subtitles)
 - [**Podcasts**](podcasts)
+- [**Collection Tracking**](collection-tracking)
 
 ### iOS
 - [**iOS 3rd Party App Stores**](ios/ios-apps)
