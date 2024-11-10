@@ -12,8 +12,6 @@ Use an adblocker on these sites or you are going to have a terrible time.
 - [**FMHY Wiki**](https://fmhy.net/videopiracyguide) ✓
 - [**Streaming Sites**](https://streamingsites.com) ✓
 
-
-- [**BraFlix**](https://www.braflix.ru)
 - [**Oligopoly**](https://olgply.com) ✓
 - [**PrivateHD**](https://privatehd.xyz)
 - [**OnionPlay**](https://onionplay.network) ✓
