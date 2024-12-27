@@ -19,7 +19,6 @@ Ad-Blockers for Browsers, Windows, Mac, Android, and iOS.
 Block Scripts Designed To Disable Your Ad-Blocker
 
 - [**FuckFuck AdBlock** ✓](https://bogachenko.github.io/fuckfuckadblock/)
-- [**BlockAdBlock Blocker**](https://greasyfork.org/en/scripts/406036-blockadblock-blocker)
 - [**Anti Anti AdBlock ✓**](https://easylist-downloads.adblockplus.org/antiadblockfilters.txt)
 
 ## Filters
