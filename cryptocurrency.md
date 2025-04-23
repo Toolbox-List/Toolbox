@@ -14,6 +14,7 @@ Price / Portfolio Tracker, Wallets, Trusted News Sources
 - [**Tangem Wallet**](https://tangem.com)
 - [**Ledger**](https://ledger.com) 
 - [**Trezor**](https://trezor.io)
+- [**Keystone**](https://keyst.one)
 
 ### Software Wallets
 - [**Trust Wallet**](https://trustwallet.com) ✓
@@ -21,6 +22,7 @@ Price / Portfolio Tracker, Wallets, Trusted News Sources
 - [**MetaMask**](https://metamask.io)
 - [**Exodus**](https://exodus.io)
 - [**CakeWallet**](https://cakewallet.com)
+- [**OKX Wallet**](https://web3.okx.com)
 
 
 ## Crypto Currency News
