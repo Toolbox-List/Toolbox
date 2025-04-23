@@ -18,7 +18,7 @@ Price / Portfolio Tracker, Wallets, Trusted News Sources
 
 ### Software Wallets
 - [**Trust Wallet**](https://trustwallet.com) ✓
-- [**Coinbase Wallet**](https://www.coinbase.com/en-ca/wallet)
+- [**Coinbase Wallet**](https://coinbase.com/en-ca/wallet)
 - [**MetaMask**](https://metamask.io)
 - [**Exodus**](https://exodus.io)
 - [**CakeWallet**](https://cakewallet.com)
