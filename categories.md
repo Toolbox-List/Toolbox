@@ -7,6 +7,7 @@
 - [**Password Tools**](privacy-security/passwords)
 - [**VPNs**](privacy-security/vpn)
 - [**Privacy Focused Search Engines**](privacy-security/privacy-search-engines)
+- [**DNS**](privacy-security/dns)
 
 ### Piracy
 - [**Movie / TV / Anime Streaming Sites**](streaming/movie-streaming)
