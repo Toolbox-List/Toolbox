@@ -3,8 +3,7 @@
 Password Managers, 2FA apps
 
 - [**Password Strength Chart**](https://hivesystems.io/blog/are-your-passwords-in-the-green)
-- [**Password Manager Emergency Kit**](https://passwordbits.com/password-manager-emergency-sheet) - *If you use 1Password, it comes with its own emergency kit.*
-- [**Bitwarden Emergency Kit**](https://github.com/DevShubam/emergency-kits/blob/main/bitwarden.md)
+- [**Generic Password Manager Emergency Sheet**](https://passwordbits.com/password-manager-emergency-sheet) - *If you use 1Password, it comes with its own emergency kit. I have a Bitwarden one below*
 
 ## Cloud Based Password Managers
 
