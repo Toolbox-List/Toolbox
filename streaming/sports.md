@@ -21,7 +21,9 @@
 - [**FootyFull**](https://footyfull.com) - Soccer
 - [**LiveSoccer TV**](https://livesoccertv.com)
 - [**SportsHub**](https://sportshub.stream)
-- [**RBTV77**](https://rbtv77.com)
+- [**RBTV+**](https://www.rbtvplus.com/), [**RBTV77**](https://www.rbtv77.support/)
+- [**FCTV33**](https://www.fctv33.com/)
+- [**RBSports77**](https://www.rbsports77.com/)
 - [**DaddyLiveHD**](https://d.daddylivehd.sx)
 - [**The Home Sport**](https://thehomesport.net)
 - [**SportSala**](https://my.sportsala.cc)
