@@ -9,12 +9,12 @@ Password Managers, 2FA apps
 
 - [**1Password**](https://1password.com) ✓
 - [**Bitwarden**](https://bitwarden.com) ✓ - [Bitwarden Emergency Kit](https://github.com/DevShubam/emergency-kits/tree/main?tab=readme-ov-file#bitwarden-emergency-kit)
-- [**Proton Pass**](https://proton.me/pass)
+- [**Proton Pass**](https://proton.me/pass)  ✓
 - [**Roboform**](https://roboform.com)
 
 ## Self Hosted Password Managers
 
-- [**KeepassXC**](https://keepassxc.org)
+- [**KeepassXC**](https://keepassxc.org) 
 - [**Vaultwarden**](https://github.com/dani-garcia/vaultwarden) - *Self Hosted Bitwarden*
 
 ## 2FA
