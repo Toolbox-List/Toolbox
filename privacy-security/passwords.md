@@ -20,8 +20,8 @@ Password Managers, 2FA apps
 ## 2FA
 
 - [**2fa.directory**](https://2fa.directory/int) - *See which services support what type of 2FA (Email, SMS, software / hardware token)*
-- [**Ente Authenticator**](https://ente.io/auth/) ✓ - *Every Single Platform*
+- [**Ente Authenticator**](https://ente.io/auth/) ✓ - *All Platforsm*
 - [**2FAS**](https://2fas.com) - *Android & iOS + Browser Extentions*
 - [**Aegis**](https://getaegis.app) - *Android*
-- [**OTP Auth**](https://apps.apple.com/ca/app/otp-auth/id659877384) - *iOS*
+- [**Proton Authenticator**](https://proton.me/authenticator) - *All Platforms*
 - [**Bitwarden Authenticator**](https://bitwarden.com/products/authenticator)
