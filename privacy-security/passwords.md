@@ -7,9 +7,9 @@ Password Managers, 2FA apps
 
 ## Cloud Based Password Managers
 
-- [**1Password**](https://1password.com) ✓
 - [**Bitwarden**](https://bitwarden.com) ✓ - [Bitwarden Emergency Kit](https://github.com/DevShubam/emergency-kits/tree/main?tab=readme-ov-file#bitwarden-emergency-kit)
 - [**Proton Pass**](https://proton.me/pass)  ✓
+- [**1Password**](https://1password.com)
 - [**Roboform**](https://roboform.com)
 
 ## Self Hosted Password Managers
@@ -20,7 +20,7 @@ Password Managers, 2FA apps
 ## 2FA
 
 - [**2fa.directory**](https://2fa.directory/int) - *See which services support what type of 2FA (Email, SMS, software / hardware token)*
-- [**Ente Authenticator**](https://ente.io/auth/) ✓ - *All Platforsm*
+- [**Ente Authenticator**](https://ente.io/auth/) ✓ - *All Platforms*
 - [**2FAS**](https://2fas.com) - *Android & iOS + Browser Extentions*
 - [**Aegis**](https://getaegis.app) - *Android*
 - [**Proton Authenticator**](https://proton.me/authenticator) - *All Platforms*
