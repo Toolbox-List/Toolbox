@@ -21,14 +21,13 @@
 
 ## Free VPNs
 
-*Note: Free VPNs are slower and less private than paid ones. If you want to torrent something, I suggest paying for one.*
+*Note: Free VPNs are generally slower and have more limitations than paid ones. If you want to torrent something, you may need a paid one.*
 
 - [**AdGuard VPN**](https://adguard-vpn.com/en/welcome.html) - Limited to 3GB of data per month.
 - [**Windscribe**](https://windscribe.com/features/use-for-free) - Limited to 10GB of data per month.
 - [**ProtonVPN**](https://protonvpn.com/pricing)
 - [**Hide.ME**](https://hide.me/en/free-vpn) - Limited to 10GB of data per month, supports P2P.
-- [**Hotspot Shield**](https://hotspotshield.com/free-vpn) - Limited to 500MB per day, 2Mbps max speed.
-
+- [**Hotspot Shield**](https://hotspotshield.com/free-vpn)
 ## IP / DNS Leak Checkers
 
 *Use an IP / DNS leak checker every time you connect to your VPN. **Especially if you are going to torrent something.***
