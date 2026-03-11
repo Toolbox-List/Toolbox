@@ -26,3 +26,4 @@ Password Managers, 2FA apps
 - [**Proton Authenticator**](https://proton.me/authenticator) - *All platforms, ppen source*
 - [**OneAuth**](https://zoho.com/accounts/oneauth) - *All platforms, both manual and cloud backup. Closed source*
 - [**Bitwarden Authenticator**](https://bitwarden.com/products/authenticator) - *iOS & Android, open source*
+- [**Stratum**](https://stratumauth.com) - *Android & WearOS, open source*
