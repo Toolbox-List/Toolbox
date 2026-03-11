@@ -22,8 +22,8 @@ Password Managers, 2FA apps
 - [**2fa.directory**](https://2fa.directory/int) - *See which services support what type of 2FA (Email, SMS, software / hardware token)*
 - [**Ente Authenticator**](https://ente.io/auth/) ✓ - *All platforms, both manual and cloud backup. Open source*
 - [**2FAS**](https://2fas.com) - *Android & iOS + Browser Extentions. Open source*
-- [**Aegis**](https://getaegis.app) - *Android, open source*
 - [**Proton Authenticator**](https://proton.me/authenticator) - *All platforms, ppen source*
 - [**OneAuth**](https://zoho.com/accounts/oneauth) - *All platforms, both manual and cloud backup. Closed source*
 - [**Bitwarden Authenticator**](https://bitwarden.com/products/authenticator) - *iOS & Android, open source*
 - [**Stratum**](https://stratumauth.com) - *Android & WearOS, open source*
+- [**Aegis**](https://getaegis.app) - *Android, open source*
