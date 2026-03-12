@@ -9,9 +9,8 @@ Can be downloaded directly in the browser or with a download manager
 - [**MyAbandonWare**](https://myabandonware.com) - Games from 1978 - 2010
 - [**Online Fix**](https://online-fix.me) - Online Game Cracks
 - [**CS.RIN.RU**](https://cs.rin.ru) - Forum
-- [**SteamUnlocked**](https://steamunlocked.net) - Pre Installed Games
+- [**SteamUnlocked**](https://steamunlocked.org) - Pre Installed Games
 - [**AllGamesForYou**](https://gamesforyou.co) - Reuploads games from other sites on this list
-- [**CroHasIt**](https://crohasit.net) - The Old SteamUnlocked
 - [**Classic PC Games**](https://archive.org/details/classicpcgames) - Old Free PC Games Hosted on the Internet Archive
 - [**GOG-Games**](https://gog-games.com) - Untouched DRM Free Games
 - [**DOS Game Archive**](https://dosgamesarchive.com)
