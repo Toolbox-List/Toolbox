@@ -2,15 +2,6 @@
 
 - [**SportsSurge**](https://sportsurge.net) - Various Sports
 - [**Streamed**](https://streamed.su) - Various Sports
-- [**Boxing Bite**](https://boxingbite.net)
-- [**SoccerLive.app**](https://soccerlive.app/)
-- [**SoccerStreams100**](https://soccerstreams100.io)
-- [**NBA Bite**](https://nbabite.com)
-- [**NHL Bite**](https://nhlbite.com)
-- [**MLB Show**](https://mlbshow.com)
-- [**Formula 1 Stream**](https://formula1stream.cc)
-- [**MMA Streams**](https://mmastreams.cc)
-- [**WWE Streams**](https://wwestreams.cc)
 - [**Easy Web TV**](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/countries.html) - Live TV / Sports
 - [**USTVGO**](https://ustvgo.tv/category/sports)
 - [**WeakStreams**](http://weakstreams.com) - Various Sports
