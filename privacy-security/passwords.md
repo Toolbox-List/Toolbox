@@ -7,6 +7,7 @@ Password Managers, 2FA apps
 
 ## Cloud Based Password Managers
 
+- [**Authier**](https://www.authier.pm/) - *Early-stage open-source password manager and TOTP vault for the web and browser extensions, with client-side encrypted sync. Not independently audited*
 - [**Bitwarden**](https://bitwarden.com) ✓ - [Bitwarden Emergency Kit](https://github.com/DevShubam/emergency-kits/tree/main?tab=readme-ov-file#bitwarden-emergency-kit)
 - [**Proton Pass**](https://proton.me/pass)  ✓
 - [**1Password**](https://1password.com)
